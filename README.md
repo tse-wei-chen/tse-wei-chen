@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="images.png" with="600" heigh="400" alt="一張圖片">
-<button onclick='b();'> 000000000 </button>
+<input type='button' onclick='b();' value='000000000'>
 
 <div id='aaa' style='display:none; >123123</div>
   
