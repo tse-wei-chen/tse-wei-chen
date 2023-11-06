@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<html>
-<img src="images.png" with="600" heigh="400" alt="一張圖片"></img>
-<button onclick='b();'> change </button>
 
-<div id='aaa' style='display:none;>123123</div>
-  </html>
-<script>
-  function b(){document.getElementById('aaa').display = block ;}
-</script>
+<img src="images.png" with="600" heigh="400" alt="一張圖片"></img>
+
