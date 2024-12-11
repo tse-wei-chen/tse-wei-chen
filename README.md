@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-<!--
-**tse-wei-chen/tse-wei-chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on PwC
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,12 +10,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 👩🏻‍🎤 Favorite Vsinger : ヰ世界情緒(神椿全員)、獅子神レオナ、versperbell
-- 👨🏻‍🎤 Favorite vocaloid Producer : MEGATERA・ZERO、傘村トータ
-- 🎵 Favorite pure music : Sakuzyo、XI、北宇治高校吹奏楽部
-- 🎮 Favorite game : Warframe、Apex、Pso2:NGS、...
-- 🛠️ skill : 前端網頁設計、後端設計、MySQL、...
--->
+- 👩🏻‍🎤 Favorite singer : ヰ世界情緒
+- 🎵 Favorite electronic music : Sakuzyo、XI
+- 🎮 Favorite game : Warframe、Apex、Pso2:NGS
+- 🛠️ skill : .net、Angular、PostgreSQL、MySQL、Oracle、Java、
 
 <img src="images.png" with="600" heigh="400" alt="一張圖片"></img>
 
