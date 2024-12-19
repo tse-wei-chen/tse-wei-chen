@@ -13,7 +13,7 @@
 - 👩🏻‍🎤 Favorite singer : ヰ世界情緒
 - 🎵 Favorite electronic music : Sakuzyo、XI
 - 🎮 Favorite game : Warframe、Apex、Pso2:NGS
-- 🛠️ skill : .net、Angular、PostgreSQL、MySQL、Oracle、Java、
+- 🛠️ skill : .net、Angular、PostgreSQL、MySQL、Oracle、Java、SAP S/4HANA、SAP ABAP
 
 <img src="images.png" with="600" heigh="400" alt="一張圖片"></img>
 
