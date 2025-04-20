@@ -1,19 +1,14 @@
-### Hi there 👋
+# 👨‍💼 About Me
+
+Hi, I'm currently working at **PwC** and actively exploring tech both professionally and through side projects.
 
 
+## 🛠️ Skills
+- **Frontend**: Angular, Next.js, Nuxt.js  
+- **Backend**: .NET, Java, SAP ABAP  
+- **Database**: PostgreSQL, MySQL, Oracle  
+- **Enterprise Systems**: SAP S/4HANA
 
-- 🔭 I’m currently working on PwC
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 👩🏻‍🎤 Favorite singer : ヰ世界情緒
-- 🎵 Favorite electronic music : Sakuzyo、XI
-- 🎮 Favorite game : Warframe、Apex、Pso2:NGS
-- 🛠️ skill : .net、Angular、PostgreSQL、MySQL、Oracle、Java、SAP S/4HANA、SAP ABAP
-
-<img src="images.png" with="600" heigh="400" alt="一張圖片"></img>
-
+## 🚀 Side Project
+### [HarverAI](https://harverai.com)  
+An AI-powered project I'm currently involved in — exploring smart solutions to accelerate productivity and creativity.
