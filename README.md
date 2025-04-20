@@ -5,9 +5,9 @@ Hi, I'm currently working at **PwC** and actively exploring tech both profession
 
 ## 🛠️ Skills
 - **Frontend**: Angular, Next.js, Nuxt.js  
-- **Backend**: .NET, Java, SAP ABAP  
+- **Backend**: .NET, Java, Flask
 - **Database**: PostgreSQL, MySQL, Oracle  
-- **Enterprise Systems**: SAP S/4HANA
+- **Enterprise Systems**: SAP S/4HANA, SAP ABAP
 
 ## 🚀 Side Project
 ### [HarverAI](https://harverai.com)  
