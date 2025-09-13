@@ -4,7 +4,7 @@ Hi, I'm currently working at **PwC** and actively exploring tech both profession
 
 
 ## 🛠️ Skills
-- **Frontend**: Angular, Next.js, Nuxt.js  
+- **Frontend**: Angular, Next.js, Nuxt.js, flutter
 - **Backend**: .NET, Java, Flask
 - **Database**: PostgreSQL, MySQL, Oracle  
 - **Enterprise Systems**: SAP S/4HANA, SAP ABAP
