@@ -1,4 +1,4 @@
-# 👨‍💼 Hi there, I'm TSE-WEI CHEN! 👋
+# Hi there, I'm TSE-WEI CHEN! 👋
 
 A Full-Stack Developer currently working at **PwC**. 
 
