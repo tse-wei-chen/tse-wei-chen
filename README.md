@@ -6,7 +6,7 @@ A Full-Stack Developer currently working at **PwC**.
 
 ## 🚀 About Me
 - 💼 **Current Role:** Developer/Technology Consultant at **PwC**
-- ⚡ **What I Do:** Build scalable backend APIs, design responsive frontends, and architect Cloud/DevOps solutions.
+- ⚡ **What I Do:** Build scalable backend APIs, design responsive frontends, and a little architect Cloud/DevOps.
 - 🔎 **Exploring:** Deep diving into **LLM (Large Language Models)**, Prompt Engineering, and AI Agent workflows.
 - 💬 **Ask me about:** Angular, .NET, or Enterprise IT solutions!
 
